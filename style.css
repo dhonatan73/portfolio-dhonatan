@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    width: 35%;
+}
+
+.img-responsive{
+    width: 45%;
+}
+
+.img-perfil img{
+    width: 15%;
+    border-radius: 50%;
+    margin-left: 10%;
+    margin-top: 25px;
+}
+
+h3{
+    margin-left: 13%;
+    margin-top: 20px;
+}
+
+h4{
+    text-align: center;
+    font-style: italic;
+    margin-top: -50px;
+    margin-bottom: 150px;
+    font-size: 40px;
+    margin-left: 35%;
+    width: 1000px;
+    color: #424242;
+
+}
+
+.impar {
+    margin-left: 60%;
+    z-index: 0;
+}
+
+.impar1, .impar3, .impar5{
+    font-size: 30px;
+    margin-left: 70%;
+    width: 250px;
+    text-align: center;
+    z-index: 1;
+}
+
+
+.par{
+    margin-left: 5%;
+}
+
+.par2, .par4, .par6 {
+    font-size: 30px;
+    margin-left: 15%;
+    width: 250px;;
+    text-align: center;
+}
+
+.par2{
+    width: 270px;;
+}
+
+.responsive{
+   
+    width: 300px;
+}
+
+.par6{
+    margin-bottom: 60px;
+}
